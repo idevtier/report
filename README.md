@@ -1,92 +1,138 @@
-ankr
+## ankr
 ![ankr](images/ankr.png)
-brave-frontier-heroes
+
+## brave-frontier-heroes
 ![brave-frontier-heroes](images/brave-frontier-heroes.png)
-airswap
+
+## airswap
 ![airswap](images/airswap.png)
-x2y2
+
+## x2y2
 ![x2y2](images/x2y2.svg)
-hop-protocol
+
+## hop-protocol
 ![hop-protocol](images/hop-protocol.png)
-dex-ag
+
+## dex-ag
 ![dex-ag](images/dex-ag.jpeg)
-augur
+
+## augur
 ![augur](images/augur.jpeg)
-illuvium
+
+## illuvium
 ![illuvium](images/illuvium.png)
-axie-infinity
+
+## axie-infinity
 ![axie-infinity](images/axie-infinity.jpeg)
-decentraland
+
+## decentraland
 ![decentraland](images/decentraland.webp)
-idex
+
+## idex
 ![idex](images/idex.jpeg)
-convex-finance
+
+## convex-finance
 ![convex-finance](images/convex-finance.png)
-gem
+
+## gem
 ![gem](images/gem.webp)
-balancer
+
+## balancer
 ![balancer](images/balancer.png)
-bancor
+
+## bancor
 ![bancor](images/bancor.jpeg)
-0x
+
+## 0x
 ![0x](images/0x.png)
-aave-v2
+
+## aave-v2
 ![aave-v2](images/aave-v2.png)
-meme
+
+## meme
 ![meme](images/meme.png)
-cream-finance
+
+## cream-finance
 ![cream-finance](images/cream-finance.png)
-cryptokitties
+
+## cryptokitties
 ![cryptokitties](images/cryptokitties.jpeg)
-compound
+
+## compound
 ![compound](images/compound.jpeg)
-dutchx
+
+## dutchx
 ![dutchx](images/dutchx.jpeg)
-cryptopunks
+
+## cryptopunks
 ![cryptopunks](images/cryptopunks.png)
-status
+
+## status
 ![status](images/status.jpg)
-lido
+
+## lido
 ![lido](images/lido.png)
-liquity
+
+## liquity
 ![liquity](images/liquity.png)
-sudoswap
+
+## sudoswap
 ![sudoswap](images/sudoswap.webp)
-sorare
+
+## sorare
 ![sorare](images/sorare.jpeg)
-sushiswap
+
+## sushiswap
 ![sushiswap](images/sushiswap.png)
-looksrare
+
+## looksrare
 ![looksrare](images/looksrare.png)
-loopring
+
+## loopring
 ![loopring](images/loopring.png)
-synapse
+
+## synapse
 ![synapse](images/synapse.png)
-synthetix
+
+## synthetix
 ![synthetix](images/synthetix.png)
-paraswap
+
+## paraswap
 ![paraswap](images/paraswap.png)
-ren
+
+## ren
 ![ren](images/ren.png)
-tokenlon
+
+## tokenlon
 ![tokenlon](images/tokenlon.png)
-unicrypt
+
+## unicrypt
 ![unicrypt](images/unicrypt.png)
-yearn-finance
+
+## yearn-finance
 ![yearn-finance](images/yearn-finance.png)
-uniswap
+
+## uniswap
 ![uniswap](images/uniswap.png)
-aave
+
+## aave
 ![aave](images/aave.jpeg)
-dydx
+
+## dydx
 ![dydx](images/dydx.jpeg)
-instadapp
+
+## instadapp
 ![instadapp](images/instadapp.png)
-mirror
+
+## mirror
 ![mirror](images/mirror.svg)
-rocket-pool
+
+## rocket-pool
 ![rocket-pool](images/rocket-pool.png)
-set-protocol
+
+## set-protocol
 ![set-protocol](images/set-protocol.png)
-tornado-cash
+
+## tornado-cash
 ![tornado-cash](images/tornado-cash.png)
+
